@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <remote name="github" fetch="https://github.com" />
+
+    <project path="vendor/xiaomi/onyx" name="Kaveer2009/vendor_xiaomi_onyx" remote="github" />
+
+    <project path="device/xiaomi/onyx-kernel" name="Kaveer2009/device_xiaomi_onyx-kernel" remote="github" />
+
+    <project path="hardware/xiaomi" name="Kaveer2009/android_hardware_xiaomi" remote="github" />
+
+    <project path="packages/apps/LunarisDolby" name="unmoved21/packages_apps_LunarisDolby" remote="github" />
+
+    <project path="vendor/xiaomi/GoogleCamera" name="Onyx-Hubs/vendor_xiaomi_GoogleCamera" remote="github" />
+
+</manifest>

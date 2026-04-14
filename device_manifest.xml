@@ -3,11 +3,13 @@
 
     <remote name="github" fetch="https://github.com" />
 
+    <project path="device/xiaomi/onyx" name="Kaveer2009/device_xiaomi_onyx" remote="github" />
+
     <project path="vendor/xiaomi/onyx" name="Kaveer2009/vendor_xiaomi_onyx" remote="github" />
 
     <project path="device/xiaomi/onyx-kernel" name="Kaveer2009/device_xiaomi_onyx-kernel" remote="github" />
 
-    <project path="hardware/xiaomi" name="Kaveer2009/android_hardware_xiaomi" remote="github" />
+    <project path="hardware/xiaomi" name="xiaomi-sm8750-onyx/android_hardware_xiaomi" remote="github" />
 
     <project path="packages/apps/LunarisDolby" name="unmoved21/packages_apps_LunarisDolby" remote="github" />
 

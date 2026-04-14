@@ -13,7 +13,7 @@
 
     <project path="packages/apps/LunarisDolby" name="unmoved21/packages_apps_LunarisDolby" remote="onyx_github" revision="16.0" />
 
-    <project path="vendor/xiaomi/GoogleCamera" name="Onyx-Hubs/vendor_xiaomi_GoogleCamera" remote="onyx_github" revision="16.0" />
+    <project path="vendor/xiaomi/GoogleCamera" name="Onyx-Hubs/vendor_xiaomi_GoogleCamera" remote="onyx_github" revision="16" />
 
 </manifest>
 
